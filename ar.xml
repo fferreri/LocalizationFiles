@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <localizationPack name="Argentina" version="1.0">
 	<currencies>
-		<currency name="Peso Argentino" iso_code="ARS" iso_code_num="032" sign="ARS" blank="1" conversion_rate="5.39" format="2" decimals="1" />
+		<currency name="Peso Argentino" iso_code="ARS" iso_code_num="032" sign="$" blank="1" conversion_rate="5.39" format="2" decimals="1" />
 	</currencies>
 	<languages>
-		<language iso_code="ag" />
+		<language iso_code="ar" />
 		<language iso_code="es" />
 	</languages>
 	<taxes>
